@@ -1,0 +1,25 @@
+main{
+    margin: 3em;
+    background-color: rgb(192, 229, 238);
+    border: 1px gray;
+    padding: 1em;
+}
+input{
+    width: 100%;
+}
+input[type="radio"]{
+    width: auto;
+}
+label{
+    display: block;
+    margin-top: 1em;
+    font-weight: bolder;
+}
+textarea{
+    width: 100%;
+}
+nav{
+    position: fixed;
+    top: 90%;
+    right:0;
+}
